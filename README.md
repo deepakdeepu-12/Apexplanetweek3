@@ -1,6 +1,5 @@
 # Apexplanetweek3
 
-Starter project initialized by Copilot.
 
 ## Structure
 
